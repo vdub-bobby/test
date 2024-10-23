@@ -8642,7 +8642,7 @@ ReturnFromBSSubroutine2
 ; 	lsr  
 ; 	lsr
 ; 	lsr             ;+10
-; 	tax             ;+2 
+; 	tax             ;+2  
 ; 	nop $1FF8,X     ;+4
     nop $1FF8
 
