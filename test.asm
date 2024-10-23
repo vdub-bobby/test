@@ -8639,7 +8639,7 @@ ReturnFromBSSubroutine2
 ; 	lda $02,X       ;+4     get high byte of return address
 ; 	lsr
 ; 	lsr
-; 	lsr
+; 	lsr  
 ; 	lsr
 ; 	lsr             ;+10
 ; 	tax             ;+2 
